@@ -16,9 +16,6 @@
 <a href="https://www.linkedin.com/in/ahmed-sadman" target="_blank">
   <img align="left" alt="Samyo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/ahmedsadman.211" target="_blank">
-  <img align="left" alt="Samyo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://stackoverflow.com/u/7176369" target="_blank">
   <img align="left" alt="Samyo's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a>
