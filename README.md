@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/pZ5Exfy.gif)](https://github.com/ahmedsadman)
+[![Header](https://i.imgur.com/cMJkHpw.gif)](https://github.com/ahmedsadman)
 
 <p align="center">
   <a href="mailto:ahmedsadman.211@gmail.com" target="_blank">
@@ -22,10 +22,25 @@
 
 ## 👨🏻‍💻 About Me
 
-- Interested in web and cross-platform technologies
-- Studying CS and also working as a part-time developer
-- Loves Python and Javascript
-- Cat Person and food lover
+```js
+{
+  title: 'Software Engineer',
+  company: 'NewsCred',
+  techInterests: ['Web', 'Cross-platform', 'Cloud'],
+  hobbies: ['Reading', 'Coding', 'Gaming', 'Eating'],
+  birthDay: {
+    day: 20,
+    month: 0
+  },
+  languages: ['Python', 'JavaScript'],
+  lovesOpenSource: true,
+  catPerson: true,
+  social: {
+    linkedin: 'https://www.linkedin.com/in/ahmed-sadman',
+    gmail: 'ahmedsadman.211@gmail.com'
+  }
+}
+```
 
 ## ⚙️ My Stack
 
