@@ -24,6 +24,7 @@
 
 ```js
 {
+  fullName: 'Ahmed Sadman Muhib (Samyo)',
   title: 'Software Engineer',
   company: 'NewsCred',
   techInterests: ['Web', 'Cross-platform', 'Cloud'],
