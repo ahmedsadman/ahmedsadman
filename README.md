@@ -29,10 +29,10 @@
   company: 'NewsCred',
   techInterests: ['Web', 'Cross-platform', 'Cloud'],
   hobbies: ['Reading', 'Coding', 'Gaming', 'Food', 'Movies/Series'],
-  languages: ['Python', 'JavaScript'],
+  languages: ['Python', 'JavaScript/Node.js', 'Java'],
   social: {
     linkedin: 'https://www.linkedin.com/in/ahmed-sadman',
-    gmail: 'ahmedsadman.211@gmail.com'
+    email: 'ahmedsadman.211@gmail.com'
   }
 }
 ```
