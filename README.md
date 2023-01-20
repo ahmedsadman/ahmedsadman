@@ -24,12 +24,14 @@
 
 ```js
 {
-  fullName: 'Ahmed Sadman Muhib (Samyo)',
+  fullName: 'Ahmed Sadman Muhib',
   title: 'Software Engineer',
-  company: 'NewsCred',
-  techInterests: ['Web', 'Cross-platform', 'Cloud'],
+  company: 'Optimizely',
+  techInterests: ['Web', 'Cross-platform', 'Cloud', 'System Design'],
   hobbies: ['Reading', 'Coding', 'Gaming', 'Food', 'Movies/Series'],
   languages: ['Python', 'JavaScript/Node.js', 'Java'],
+  availableFor: ['Mentoring'],
+  mentorship: 'https://mentors.to/ahmedsadman',
   social: {
     linkedin: 'https://www.linkedin.com/in/ahmed-sadman',
     email: 'ahmedsadman.211@gmail.com'
