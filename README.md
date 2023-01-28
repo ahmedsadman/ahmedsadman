@@ -49,6 +49,7 @@
 
 
 ![badge-react](https://img.shields.io/badge/React-black?logo=react&style=for-the-badge&color=21223e)
+![badge-express](https://img.shields.io/badge/Express-black?logo=express&style=for-the-badge&color=21223e)
 ![badge-flask](https://img.shields.io/badge/Flask-black?logo=flask&style=for-the-badge&color=21223e)
 ![badge-fastapi](https://img.shields.io/badge/FastAPI-black?logo=fastapi&style=for-the-badge&color=21223e)
 ![badge-django](https://img.shields.io/badge/Django-black?logo=django&style=for-the-badge&color=21223e)
