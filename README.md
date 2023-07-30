@@ -18,14 +18,14 @@
   </a>
 </p>
 
-<a href="https://gpvc.arturio.dev/ahmedsadman" align="center">![Profile views](https://gpvc.arturio.dev/ahmedsadman)</a>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ## 👨🏻‍💻 About Me
 
 ```js
 {
   fullName: 'Ahmed Sadman Muhib',
-  title: 'Software Engineer',
+  title: 'Software Engineer II',
   company: 'Optimizely',
   techInterests: ['Web', 'Cross-platform', 'Cloud', 'System Design'],
   hobbies: ['Reading', 'Coding', 'Gaming', 'Food', 'Movies/Series'],
