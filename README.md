@@ -73,7 +73,3 @@
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ahmedsadman&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </div>
-
-<div align="center">
-  <img src="https://github.com/ahmedsadman/ahmedsadman/blob/output/github-contribution-grid-snake.svg" />
-</div>
